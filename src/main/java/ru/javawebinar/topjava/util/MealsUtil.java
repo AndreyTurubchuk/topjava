@@ -1,13 +1,10 @@
 package ru.javawebinar.topjava.util;
 
-import ru.javawebinar.topjava.model.Meal;
-import ru.javawebinar.topjava.model.MealWithExceed;
 
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.Month;
 import java.util.Arrays;
-import java.util.List;
 
 public class MealsUtil {
     public static void main(String[] args) {
